@@ -1,0 +1,56 @@
+@media only screen and (max-width:500px)
+{
+
+.amount li {
+margin:0;
+}
+
+}
+
+body {
+font-family: 'Play', sans-serif;
+background:black;
+overflow:auto;}
+
+
+.container{
+text-align:center;
+margin:0 auto;}
+
+input[type=submit]{
+background:#1e4456;
+color:white;
+font-size:1.5em;
+border:1px solid black;
+}
+
+input[type=text]{
+font-size:1.5em;
+min-width:35px;}
+
+
+h1{
+color:white;
+text-align:center;}
+
+
+
+.table a {
+border:0px;
+color:red;
+background:black;
+text-decoration:none;}
+
+.table {
+text-align:center;
+color:white;
+border:1px solid white;
+margin:20px auto;
+font-size:1em;
+
+}
+
+.table th{
+padding:4px;}
+
+
